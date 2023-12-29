@@ -5,4 +5,4 @@
 - 📫 How to reach me @l3cache:matrix.org
   
 <img src="https://myreadme.vercel.app/api/embed/fortunef?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://komarev.com/ghpvc/?username=fortunef&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=fortunef&color=brightgreen" alt="profile_views" />
